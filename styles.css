@@ -1,0 +1,32 @@
+* {
+    border: 1px solid teal;
+}
+
+h1 {
+    text-align: center;
+}
+
+button {
+    color: white;
+    background: green;
+    padding: 8px;
+}
+
+input {
+    padding: 8px;
+}
+
+ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    margin: 16px;
+    padding: 8px;
+}
+
+div {
+    padding: 16px;
+}
